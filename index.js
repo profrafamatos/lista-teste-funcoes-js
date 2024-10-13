@@ -11,10 +11,4 @@ module.exports = {
   multiplicar,
   subtrair,
   dividir,
-  calcularMedia,
-  elevarPotencia,
-  calcularAreaRetangulo,
-  verificarParOuImpar,
-  calcularRaizQuadrada,
-  calcularHipotenusa,
 };
