@@ -1,0 +1,41 @@
+{
+    "tests": [
+      {
+        "name": "Testar função de soma",
+        "setup": "",
+        "run": "npm test -- -t \"somar deve retornar a soma de dois números\"",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 10
+      },
+      {
+        "name": "Testar função de multiplicação",
+        "setup": "",
+        "run": "npm test -- -t \"multiplicar deve retornar o produto de dois números\"",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 10
+      },
+      {
+        "name": "Testar função de subtração",
+        "setup": "",
+        "run": "npm test -- -t \"subtrair deve retornar a diferença entre dois números\"",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 10
+      },
+      {
+        "name": "Testar função de divisão",
+        "setup": "",
+        "run": "npm test -- -t \"dividir deve retornar a divisão de dois números e lançar erro ao dividir por zero\"",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 10
+      }
+    ]
+  }
+  
